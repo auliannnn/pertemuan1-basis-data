@@ -4,7 +4,7 @@
 
 PostgreSQL adalah PostgreSQL menyediakan fitur yang berguna untuk replikasi basis data. Fitur-fitur yang disediakan PostgreSQL antara lain DB Mirror, PGPool, Slony, PGCluster, dan lain-lain. PostgreSQL adalah sistem database yang kuat untuk urusan relasi, open source. Berikut adalah cara menginstall nya:
 
-1. Download Phyton Installer melalui: [link]https://www.postgresql.org/download/)
+1. Download PostgreSQL Installer melalui: [link]https://www.postgresql.org/download/)
 2. Klik pada section download, kemudian pilih sesuai device yang digunakan
 3. Klik link download terbaru yang ditampilkan
 4. Scroll ke bawah kemudian klik file sesuai device
